@@ -3,3 +3,4 @@ Git is a free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 This is tested for the sync between local and github.
+This is a test for the dev branch.
