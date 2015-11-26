@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 This is tested for the sync between local and github.
 This is a test for the dev branch.
+This line is for a test which is pointed to the new branch which is thought to be quick and simple.
